@@ -1,4 +1,4 @@
-#about-me repository
-First push to GitHub repository
+###### about-me
 
-First website
+### Repository Notes
+First push to GitHub repository and introduction.
